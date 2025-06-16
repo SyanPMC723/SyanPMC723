@@ -3,7 +3,7 @@
  <p>
  <img align="right" width="350" src="programmer.gif" alt="Coding gif" />
   <br></br>
-- 🔭 I’m currently working On **Vr Projects**
+- 🔭 I’m currently working On VR Team Building
 
 - 👯 I’m looking For **New Techs**
 
