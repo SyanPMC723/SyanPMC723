@@ -23,13 +23,13 @@
 
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=syan723&theme=dark" alt="syan723" width="300px"/>
-<img src="https://github-readme-stats.vercel.app/api?username=syan723&show_icons=true&theme=dark#gh-dark-mode-only" alt="syan723" width="280px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SyanPMC723&theme=dark" alt="SyanPMC723" width="300px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SyanPMC723&show_icons=true&theme=dark#gh-dark-mode-only" alt="SyanPMC723" width="280px"/>
 </div>
 
 <div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=syan723&limit=5&theme=dark&combine_all_yearly_contributions=true)" width="300px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=syan723&theme=dark&show_icons=true&locale=en&layout=compact" alt="syan723" width="265px" />
+<img src="https://github-contributor-stats.vercel.app/api?username=SyanPMC723&limit=5&theme=dark&combine_all_yearly_contributions=true)" width="300px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SyanPMC723&theme=dark&show_icons=true&locale=en&layout=compact" alt="SyanPMC723" width="265px" />
 </div>
  <br></br>
 <img align="Left" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
